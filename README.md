@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I’m Miftahul Islam Sohan</h1>
 
-Welcome to my GitHub profile. I'm a front-end web developer with a passion for creating beautiful and intuitive user experiences. I have experience working with HTML, CSS, JavaScript, and various front-end frameworks such as React . I'm also proficient in responsive design and optimizing websites for performance .
+Welcome to my GitHub profile. I'm a front-end web developer with a passion for creating beautiful and intuitive user experiences. I have experience working with HTML, CSS, JavaScript, and front-end frameworks React . I'm also proficient in responsive design and optimizing websites for performance .
 
 
 Skills:   HTML / CSS / JAVASCRIPT / REACT
