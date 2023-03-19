@@ -1,4 +1,4 @@
-![Frontend Web developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![Frontend Web developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 # Hi there 👋, I'm Miftahul Islam Sohan
 ### Frontend Web developer 
